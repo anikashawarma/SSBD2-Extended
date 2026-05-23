@@ -1,16 +1,13 @@
-### Extended SSBD2 Dataset
+### This is the extended version of the SSBD2 Dataset, with additional videos recorded by our team.
 
 Thank you for your interest in our project! You can find the hosted dataset and the required access steps below.
 
-🔗 Dataset Link
-You can view the dataset repository here:
-[https://drive.google.com/drive/folders/1h5JR4IBmG83V_pNr2WBtJQTuPZpeuIAB?usp=sharing](url)
-This folder contains 289 Videos for Non ASD and ASD Classes. 
-Non ASD: Action_videos, Still_videos
-ASD: armFlapping, headBanging, spinning
+🔗 Dataset Link You can view the dataset repository here: 
+[https://drive.google.com/drive/folders/1SdSi8SuRpp1DbrXC-Za4zftf0vGOQw4Z?usp=sharing](url)
 
-🔐 How to Request Access
-To maintain data security and track usage, the dataset is currently restricted. If you require access for research or development purposes, please follow these steps:
+This folder contains 289 Videos for Non ASD and ASD Classes. Non ASD: Action_videos, Still_videos ASD: armFlapping, headBanging, spinning
+
+🔐 How to Request Access To maintain data security and track usage, the dataset is currently restricted. If you require access for research or development purposes, please follow these steps:
 
 Fill out the Access Request Form:
 
